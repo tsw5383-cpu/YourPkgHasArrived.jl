@@ -1,0 +1,4 @@
+name = "YourPkgHasArrived"
+uuid = "768e9b06-6894-49fa-9260-00ec6ad7f7ad"
+authors = ["Tristan_Weaver <tsw5383@psu.edu>"]
+version = "0.1.0"
